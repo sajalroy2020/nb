@@ -1,0 +1,139 @@
+/* xl */
+
+@media (max-width: 1200px) {}
+
+/* lg */
+
+@media (max-width: 992px) {
+    .icon {
+        border-bottom: 0px solid #ffffff;
+        padding-top: 22px;
+        width: 100%;
+    }
+    .icon-2 {
+        border-bottom: 0px;
+    }
+    .icon-3 {
+        border-bottom: 0px;
+    }
+}
+
+/* md */
+
+@media (max-width: 768px) {
+    .py-24 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+    /* ====================Benefícios section-start================ */
+    .font-size-50 {
+        font-size: 42px;
+    }
+    .font-size-30 {
+        font-size: 25px;
+    }
+    .font-size-18 {
+        font-size: 17px;
+    }
+    /* ====================Benefícios section-End================ */
+    /* ====================Chart section-start================ */
+    .inner-text {
+        font-size: 30px;
+    }
+    #chartdiv {
+        width: 100%;
+        height: 400px;
+    }
+    .chart-header {
+        font-size: 30px;
+        padding: 0;
+    }
+    .section-space {
+        padding: 60px 0;
+    }
+    .section-space-top{
+        padding-top: 60px;
+    }
+    .section-space-bottom{
+        padding-bottom: 60px;
+    }
+    /* ====================chart section-End================ */
+}
+
+
+
+@media (max-width: 576px) {
+    .contact-btn {
+        width: 100%;
+    }
+    .font-size-ea-50 {
+        font-size: 40px;
+    }
+    .font-size-ea-30 {
+        font-size: 20px;
+    }
+    .line-height-ea-75 {
+        line-height: 30px;
+    }
+    .line-height-ea-40 {
+        line-height: 30px;
+    }
+    .form-py {
+        padding-top: 24px;
+        padding-bottom: 24px;
+    }
+    .form-px {
+        padding-left: 16px;
+        padding-right: 16px;
+    }
+    /* ====================Benefícios section-start================ */
+    .font-size-50 {
+        font-size: 35px !important;
+    }
+    .line-height-2-am {
+        line-height: 120%;
+    }
+    .font-size-30 {
+        font-size: 22px;
+    }
+    .font-size-18 {
+        font-size: 16px;
+    }
+    .line-height-1-am {
+        line-height: 160%;
+    }
+    /* ====================Benefícios section-end================ */
+    /* ====================Chart section-start================ */
+    .inner-text {
+        font-size: 20px;
+    }
+    .chart-header {
+        font-size: 27px;
+        padding: 0;
+    }
+    #chartdiv {
+        width: 100%;
+        height: 300px;
+    }
+    /* ====================Chart section-end================ */
+}
+
+
+
+
+
+
+
+
+/* xxl */
+
+@media (min-width: 1400px) {}
+
+
+/* min screen start */
+
+@media (min-width: 768px) {}
+
+@media (min-width: 992px) {}
+
+@media (min-width: 1200px) {}
